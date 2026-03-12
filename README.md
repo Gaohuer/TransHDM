@@ -16,14 +16,14 @@ You can install the development version of `TransHDM` from GitHub using the **de
 
 ```r
 install.packages("devtools")
-devtools::install_github("YOUR_GITHUB_USERNAME/TransHDM")
+devtools::install_github("Gaohuer/TransHDM")
 ```
 
 Alternatively, using **remotes**:
 
 ```r
 install.packages("remotes")
-remotes::install_github("YOUR_GITHUB_USERNAME/TransHDM")
+remotes::install_github("Gaohuer/TransHDM")
 ```
 
 ---
